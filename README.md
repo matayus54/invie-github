@@ -1,2 +1,4 @@
-# invie-github
-reposito
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
